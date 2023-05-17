@@ -4,7 +4,6 @@ const nextConfig = {
   eslint: {
     dirs: [
       'stories',
-      'src/__test__',
       'src/common',
       'src/helpers',
       'src/modules',
